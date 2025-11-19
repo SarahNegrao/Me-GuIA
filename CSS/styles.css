@@ -76,9 +76,11 @@ section{
 margin-top: 30px;
 }
 
-footer{
+footer {
     background-color: #1E2952;
     color: #ffffff;
     margin-top: 30px;
     text-align: center;
+    width: 100%;
+    padding: 20px 0; 
 }
